@@ -1,0 +1,21 @@
+ref,deadline,category,reward,teamCount,userHasEntered
+hhp,2013-04-04 07:00:00,Featured,"$500,000",1351,False
+datasciencebowl,2015-03-16 23:59:00,Featured,"$175,000",1049,False
+aptos2019-blindness-detection,2019-09-05 23:59:00,Featured,"$50,000",2074,False
+NFL-Punt-Analytics-Competition,2019-01-09 23:59:00,Analytics,"$80,000",0,False
+diabetic-retinopathy-detection,2015-07-27 23:59:00,Featured,"$100,000",661,False
+ultrasound-nerve-segmentation,2016-08-18 23:59:00,Featured,"$100,000",923,False
+second-annual-data-science-bowl,2016-03-14 23:59:00,Featured,"$200,000",192,False
+msk-redefining-cancer-treatment,2017-10-02 23:59:00,Research,"$15,000",1386,True
+melbourne-university-seizure-prediction,2016-12-01 23:59:00,Research,"$20,000",478,False
+data-science-bowl-2017,2017-04-12 23:59:00,Featured,"$1,000,000",1972,False
+womens-machine-learning-competition-2019,2019-04-08 05:10:00,Featured,"$25,000",500,False
+mens-machine-learning-competition-2018,2018-04-02 23:59:00,Featured,"$50,000",934,False
+march-machine-learning-mania-2014,2014-04-08 23:59:00,Featured,"$15,000",248,False
+mens-machine-learning-competition-2019,2019-04-09 06:00:00,Featured,"$25,000",866,False
+intel-mobileodt-cervical-cancer-screening,2017-06-21 23:59:00,Featured,"$100,000",848,False
+histopathologic-cancer-detection,2019-03-30 23:59:00,Playground,Knowledge,1157,False
+march-machine-learning-mania-2017,2017-04-04 15:00:00,Playground,Swag,441,False
+march-machine-learning-mania-2015,2015-04-07 23:59:00,Featured,"$15,000",341,False
+march-machine-learning-mania-2016,2016-04-05 06:00:00,Featured,"$25,000",597,False
+kobe-bryant-shot-selection,2016-06-13 23:59:00,Playground,Knowledge,1117,False

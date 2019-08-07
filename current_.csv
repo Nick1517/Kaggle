@@ -1,0 +1,21 @@
+ref,deadline,category,reward,teamCount,userHasEntered
+digit-recognizer,2030-01-01 00:00:00,Getting Started,Knowledge,3059,False
+titanic,2030-01-01 00:00:00,Getting Started,Knowledge,11751,False
+house-prices-advanced-regression-techniques,2030-01-01 00:00:00,Getting Started,Knowledge,4319,False
+imagenet-object-localization-challenge,2029-12-31 07:00:00,Research,Knowledge,49,False
+competitive-data-science-predict-future-sales,2019-12-31 23:59:00,Playground,Kudos,3794,False
+severstal-steel-defect-detection,2019-10-24 23:59:00,Featured,"$120,000",274,False
+kuzushiji-recognition,2019-10-14 23:59:00,Playground,"$15,000",68,False
+ieee-fraud-detection,2019-10-01 23:59:00,Research,"$20,000",1979,False
+open-images-2019-object-detection,2019-10-01 23:59:00,Research,"$25,000",374,False
+open-images-2019-visual-relationship,2019-10-01 23:59:00,Research,"$25,000",117,False
+open-images-2019-instance-segmentation,2019-10-01 23:59:00,Research,"$25,000",53,False
+recursion-cellular-image-classification,2019-09-26 23:59:00,Research,"$13,000",608,False
+youtube8m-2019,2019-09-13 23:59:00,Research,"$25,000",185,False
+aptos2019-blindness-detection,2019-09-05 23:59:00,Featured,"$50,000",2074,False
+siim-acr-pneumothorax-segmentation,2019-09-04 23:59:00,Featured,"$30,000",1258,False
+champs-scalar-coupling,2019-08-28 23:59:00,Featured,"$30,000",2272,False
+generative-dog-images,2019-08-09 23:59:00,Research,"$10,000",758,False
+recognizing-faces-in-the-wild,2019-08-08 23:59:00,Playground,Knowledge,551,False
+two-sigma-financial-news,2019-08-05 23:59:00,Featured,"$100,000",2927,False
+jigsaw-unintended-bias-in-toxicity-classification,2019-07-18 19:35:00,Featured,"$65,000",3165,False
